@@ -1,0 +1,17 @@
+Application
+	Flask API
+	MongoDB
+	Jenkins
+	
+IAC:
+	terraform (Duh)
+
+CAC?:
+
+Security:
+	Wireguard VPN
+	bastion/jumphost
+
+Observability:
+	Prometheus
+	Grafana
